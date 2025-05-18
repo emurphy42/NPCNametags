@@ -1,0 +1,10 @@
+{
+  "Name": "NPC Nametags",
+  "Author": "John Peters (you know, the farmer?)",
+  "Version": "1.0.0",
+  "Description": "Add nametags above NPCs.",
+  "UniqueID": "JohnPeters.NPCNametags",
+  "EntryDll": "NPCNametags.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:???" ]
+}
